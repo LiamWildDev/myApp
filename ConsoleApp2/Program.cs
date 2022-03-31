@@ -3,7 +3,7 @@
 namespace ConsoleApp2
 {
     class Program
-    { // ceci est un test
+    { // test branche 1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
